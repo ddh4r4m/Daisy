@@ -1,0 +1,2 @@
+# Daisy
+A KDE theme.
